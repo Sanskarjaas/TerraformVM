@@ -28,5 +28,5 @@ This script will create the following Azure resources:
 1. **Clone the repository**:
    ```bash
    git clone <repo-url>
-   cd terraform-azure-vm
+   cd <your-directory>
    ```
